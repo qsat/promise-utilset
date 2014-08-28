@@ -1,0 +1,26 @@
+{
+  "name": "promise-utils",
+  "version": "0.0.0",
+  "description": "promise-utils =============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qsat/promise-utils.git"
+  },
+  "keywords": [
+    "promise",
+    "deferred"
+  ],
+  "author": "qsat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qsat/promise-utils/issues"
+  },
+  "homepage": "https://github.com/qsat/promise-utils",
+  "dependencies": {
+    "es6-promise": "^1.0.0"
+  }
+}
