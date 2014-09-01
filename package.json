@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/qsat/promise-utilset/issues"
   },
-  "homepage": "https://github.com/qsat/promise-utilset”,
+  "homepage": "https://github.com/qsat/promise-utilset",
   "dependencies": {
     "es6-promise": "^1.0.0"
   }
