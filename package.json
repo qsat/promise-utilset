@@ -1,14 +1,14 @@
 {
-  "name": "promise-utils",
+  "name": "promise-utilse”t,
   "version": "0.0.1",
-  "description": "promise-utils =============",
+  "description": "promise-utilset =============",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/qsat/promise-utils.git"
+    "url": "https://github.com/qsat/promise-utilset.git"
   },
   "keywords": [
     "promise",
@@ -17,9 +17,9 @@
   "author": "qsat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qsat/promise-utils/issues"
+    "url": "https://github.com/qsat/promise-utilset/issues"
   },
-  "homepage": "https://github.com/qsat/promise-utils",
+  "homepage": "https://github.com/qsat/promise-utilset”,
   "dependencies": {
     "es6-promise": "^1.0.0"
   }
