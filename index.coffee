@@ -1,4 +1,4 @@
-require "es6-promise"
+Promise = (require "es6-promise").Promise
 
 defer=  ->
   reject = resolve = null
@@ -37,7 +37,7 @@ module.exports =
     e.addEventListener     "msTransitionEnd", d.resolve, false
     e.addEventListener      "oTransitionEnd", d.resolve, false
     e.addEventListener       "transitionend", d.resolve, false
-    d.done ->
+    d.then ->
       e.removeEventListener "webkitTransitionEnd", d.resolve, false
       e.removeEventListener    "mozTransitionEnd", d.resolve, false
       e.removeEventListener     "msTransitionEnd", d.resolve, false
