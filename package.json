@@ -1,6 +1,6 @@
 {
   "name": "promise-utilset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "promise-utilset =============",
   "main": "index.js",
   "scripts": {
